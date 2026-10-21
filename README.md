@@ -2,7 +2,7 @@ I build backend services in TypeScript/Node.js and PostgreSQL, and use Python fo
 
 ### Projects
 
-- **[ft_transcendence](https://github.com/umarudotdev/ft_transcendence)** · 42's final project, a web platform built by a team of four. I built the real-time multiplayer layer: matchmaking over WebSockets, a Colyseus game server, reconnection support and tests. TypeScript, Bun, Docker. ([my commits](https://github.com/umarudotdev/ft_transcendence/commits?author=onze-e-meia))
+- **[ft_transcendence](https://github.com/umarudotdev/ft_transcendence)** · 42's final project, a web platform built by a team of four. I built the real-time multiplayer layer: matchmaking over WebSockets, a Colyseus game server, reconnection support and tests. TypeScript, Bun, Docker.
 - **[SuperCluster](https://github.com/umarudotdev/ft_transcendence/tree/onze-e-meia/packages/supercluster)** · a 3D multiplayer space shooter written for ft_transcendence but not merged. Fixed-step simulation, collision detection, and ship movement and collisions handled by the server over WebSockets. TypeScript, Three.js. Early prototype in [super_cluster_game](https://github.com/onze-e-meia/super_cluster_game).
 - **[inception](https://github.com/onze-e-meia/inception)** · a small web stack set up with Docker and docker-compose.
 - **[CPP_module](https://github.com/onze-e-meia/CPP_module)** · my exercises from the 42 C++ modules (C++98).
